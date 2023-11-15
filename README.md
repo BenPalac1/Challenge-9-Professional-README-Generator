@@ -44,9 +44,11 @@ THEN I am taken to the corresponding section of the README
 
 ## Instructions
 
-Be sure to run an npm i in your terminal to install "inquirer": "^8.2.4"
+Be sure to run an npm i in your terminal to install necessary dependencies
 
-Start the App by using the command: node index.js
+cd into the Develop/ folder and start the App by using the command: node index.js
+
+answer the prompts and generate your readme
 
 ## Demo Video
 
