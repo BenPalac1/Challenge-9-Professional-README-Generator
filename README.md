@@ -1,5 +1,10 @@
 # Challenge-9-Professional-README-Generator
 
+##  Description
+
+    This readme generator uses Node.js to give the user a series of prompts.  When filled out/or not; the users inputs are placed in a readme file,
+    organized by heading, and paired with a table of contents that links to each heading for easy naviagtion.  
+
 ## User Story
 
 AS A developer
@@ -42,10 +47,7 @@ WHEN I click on the links in the Table of Contents
 
 THEN I am taken to the corresponding section of the README
 
-##  Description
 
-    This readme generator uses Node.js to give the user a series of prompts.  When filled out/or not, the users inputs are placed in a readme file.
-    The file is organized by heading and has a table of contents that links to each heading for easy naviagtion.  
 
 
 ## Instructions
@@ -58,9 +60,10 @@ THEN I am taken to the corresponding section of the README
 
 ## Demo Video
 
-Video showing the readme generator being run in terminal. 
+    Video showing the readme generator being run in terminal. Note: an npm install has already been run prior to recording 
+    and all fields have been filled out with the letter "a" to save time and space on the video file size. 
 
-<video src="Develop/assets/media/readme%20vid.mp4" controls title="Title"></video>
+<video src="Develop/assets/media/readme%20vid%20func.mp4" controls title="Title"></video>
 
 ## Screenshots
 
