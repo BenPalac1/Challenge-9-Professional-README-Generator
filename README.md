@@ -42,16 +42,40 @@ WHEN I click on the links in the Table of Contents
 
 THEN I am taken to the corresponding section of the README
 
+##  Description
+
+    This readme generator uses Node.js to give the user a series of prompts.  When filled out/or not, the users inputs are placed in a readme file.
+    The file is organized by heading and has a table of contents that links to each heading for easy naviagtion.  
+
+
 ## Instructions
 
-Be sure to run an npm i in your terminal to install necessary dependencies
+    Be sure to run an npm i in your terminal to install necessary dependencies
 
-cd into the Develop/ folder and start the App by using the command: node index.js
+    cd into the Develop/ folder and start the App by using the command: node index.js
 
-answer the prompts and generate your readme
+    answer the prompts and generate your readme file
 
 ## Demo Video
 
+Video showing the readme generator being run in terminal. 
+
+<video src="Develop/assets/media/readme%20vid.mp4" controls title="Title"></video>
+
 ## Screenshots
+
+
+    Image of readme questions filled out. 
+
+![Alt text](<Develop/assets/media/readme cap1.PNG>)
+
+    Image of read me answers saved.
+
+![Alt text](<Develop/assets/media/readme cap 2.PNG>)
+
+    Image of generated readme file. 
+    Fields are filled in with the user inputs and a table of contents is available. 
+
+![Alt text](<Develop/assets/media/readme cap 3.PNG>)
 
 
