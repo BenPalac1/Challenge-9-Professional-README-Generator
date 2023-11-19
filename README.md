@@ -61,9 +61,9 @@ THEN I am taken to the corresponding section of the README
 ## Demo Video
 
     Video showing the readme generator being run in terminal. Note: an npm install has already been run prior to recording 
-    and all fields have been filled out with the letter "a" to save time and space on the video file size. 
+    and all fields have been filled out with the letter "a" to save time and space on the video file size.
 
-
+https://github.com/BenPalac1/Challenge-9-Professional-README-Generator/assets/139652929/22db45a6-18d6-4d5c-af24-9ddacd070a69
 
 ## Screenshots
 
