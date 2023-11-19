@@ -22,17 +22,17 @@
   a
 
   ## Usage
-  a
+  sd
   
   ## License
       Licensed under MIT License
 
   ## Contributing
-  a
+  f
 
   ## Tests
-  a
+  g
 
   ## Questions
-  Any questions, please reach to me by email, a or github, [a](https://github.com/a/)
+  Any questions, please reach to me by email, fd or github, [gd](https://github.com/gd/)
   

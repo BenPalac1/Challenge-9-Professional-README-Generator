@@ -63,7 +63,7 @@ THEN I am taken to the corresponding section of the README
     Video showing the readme generator being run in terminal. Note: an npm install has already been run prior to recording 
     and all fields have been filled out with the letter "a" to save time and space on the video file size. 
 
-<video src="Develop/assets/media/readme%20vid%20func.mp4" controls title="Title"></video>
+
 
 ## Screenshots
 
